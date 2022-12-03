@@ -1,0 +1,44 @@
+.flex-container{
+    display: flex;
+    flex-wrap:wrap;
+    background-color: white;
+   height:1400px;
+}
+.item{
+    background-color: white;
+    width: 900px;
+    height: 300px;
+    margin: 15px;
+    text-align: center;
+}
+img{
+  float:left;
+}
+a{margin-left:150px;color:black;text-decoration: none;margin-top:50px;font-size:20px}
+button{background-color:black;color:white}
+header{
+  height:100px;border: black 3px solid
+}
+.aa{
+  position:relative;
+  top:50px;
+  font-weight: 1000px;
+  color:white;
+  background-color: blue;
+  font-family: fantasy;
+}
+header{
+  background-color:lightgray;
+}
+h3{
+  color:blue;
+  font-size: 30px;
+}
+#hh{
+  font-size:45px;
+  font-family:lucida;
+  text-align:center
+}
+p{
+  font-size:15px;
+}

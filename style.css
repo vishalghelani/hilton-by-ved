@@ -1,0 +1,35 @@
+#a{
+float:left;
+}
+a{margin-left:150px;color:black;text-decoration: none;margin-top:50px;font-size:20px}
+button{background-color:black;color:white}
+header{
+  height:100px;border: black 3px solid
+}
+#b{
+  float:right;
+}
+.flex-container{
+    display: flex;
+    flex-wrap:wrap;
+    background-color: white;
+   height:600px;
+}
+.item{
+    background-color: white;
+    width: 405px;
+    height: 200px;
+    margin: 15px;
+    text-align: center;
+}
+.aa{
+  position:relative;
+  top:50px;
+  font-weight: 1000px;
+  color:white;
+  background-color: black;
+  font-family: fantasy;
+}
+header{
+  background-color:lightgray;
+}
